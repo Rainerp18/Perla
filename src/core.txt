@@ -1,3 +1,4 @@
 A cross-platform web standards-first SPA dev server
 # clarify the control flow
 # keep defaults in sync with the manifest
+# drop an unused branch
