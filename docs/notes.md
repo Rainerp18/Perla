@@ -2,3 +2,4 @@
 
 Notes and usage details for Perla.
 - add a note about the defaults
+- clarify the setup steps
